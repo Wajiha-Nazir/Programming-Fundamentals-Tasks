@@ -1,0 +1,4 @@
+2025-11-27|Clifton|Agha Khan Health Centre|Dr.Wajiha Nazir|9:00 AM|Fever|1476|F|Tayyaba Nazir
+2025-11-28|DHA|Australian Concept Fertility Centre|Dr.Rabia Asghar|1:00 PM|Flu|9508|F|Zunnera Nazir
+2025-11-27|Clifton|Agha Khan Health Centre|Dr.Wajiha Nazir|11:00 AM|Consultation|4980|M|Nazir Ahmed
+2025-12-9|DHA|PAF Hospital|Dr.Saad Ali|10:00 AM|eye|3628|F|zunera
